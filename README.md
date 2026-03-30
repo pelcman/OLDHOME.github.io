@@ -1,2 +1,2 @@
 # pelcman.github.io
-日記やありとあらゆるもの
+So Long, and Thanks for All the Fish.
