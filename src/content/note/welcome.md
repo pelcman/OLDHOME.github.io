@@ -1,9 +1,12 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "2024-10-14T11:23:00Z"
+title: Hewwo, Welcome
+description: general
+publishDate: "2026-04-30T00:00:00+09:00"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Cactus 🌵
+Hi, Hewwo. We are OLDHOME.
 
-They're for shorter, more concise posts that you'd like to share. They generally don't include headings, but hey, it's entirely up to you!
+OLDHOME is a space that documents the collection, preservation, and reconstruction of the vanishing content we cherish, in the hope of building a more resilient future.
+
+We live and work in the remote regions of Japan and Canada. We operate by gathering fragments in a decentralized manner, existing to verify and research whether degraded things can be made to function once again.
+
