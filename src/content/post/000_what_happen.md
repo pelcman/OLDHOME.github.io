@@ -7,9 +7,10 @@ tags: ["general"]
 
 ## What happen?
 
-oops.
+Oops.
 
 It felt as if something happened, yet nothing did.
+
 Thank you for looking.
 
-- Written by yule pelcman
+<small>Written by yule pelcman</small>

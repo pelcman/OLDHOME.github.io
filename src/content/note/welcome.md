@@ -11,4 +11,4 @@ If you are reading this, it means our signal from the remote mountains of Japan 
 We spend our days rescuing content that the modern internet has forgotten, and our nights wondering if we should have just become goat farmers instead.
 We’re glad you’re here—stay a while, before the grid goes down.
 
-- Written by imori pelcman
+<small>Written by imori pelcman</small>
